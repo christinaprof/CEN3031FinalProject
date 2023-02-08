@@ -60,7 +60,7 @@ export default function Home({
         ))}
       </Marquee>
       <Hero
-        headline=" A centralized marketplace for all your fashion needs!"
+        headline=" Centralized Clothing Marketplace"
         description="Shop for all your favorite brands in one place. Choose from our pre-determined categories or make your own "
       />
       <Grid layout="B" variant="filled">
