@@ -97,7 +97,7 @@ export default function Cart() {
             <div className="my-6">
               <Text>
                 Before you leave, take a look at these items. We picked them
-                just for you
+                out just for you
               </Text>
               <div className="flex py-6 space-x-6">
                 {[1, 2, 3, 4, 5, 6].map((x) => (
